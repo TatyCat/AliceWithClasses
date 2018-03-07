@@ -1,0 +1,11 @@
+C:\Users\Tatyanna\Documents\Projects\bobvid1\bobvid1\bin\Debug\netcoreapp2.0\bobvid1.deps.json
+C:\Users\Tatyanna\Documents\Projects\bobvid1\bobvid1\bin\Debug\netcoreapp2.0\bobvid1.runtimeconfig.json
+C:\Users\Tatyanna\Documents\Projects\bobvid1\bobvid1\bin\Debug\netcoreapp2.0\bobvid1.runtimeconfig.dev.json
+C:\Users\Tatyanna\Documents\Projects\bobvid1\bobvid1\bin\Debug\netcoreapp2.0\bobvid1.dll
+C:\Users\Tatyanna\Documents\Projects\bobvid1\bobvid1\bin\Debug\netcoreapp2.0\bobvid1.pdb
+C:\Users\Tatyanna\Documents\Projects\bobvid1\bobvid1\obj\Debug\netcoreapp2.0\bobvid1.csprojResolveAssemblyReference.cache
+C:\Users\Tatyanna\Documents\Projects\bobvid1\bobvid1\obj\Debug\netcoreapp2.0\bobvid1.csproj.CoreCompileInputs.cache
+C:\Users\Tatyanna\Documents\Projects\bobvid1\bobvid1\obj\Debug\netcoreapp2.0\bobvid1.AssemblyInfoInputs.cache
+C:\Users\Tatyanna\Documents\Projects\bobvid1\bobvid1\obj\Debug\netcoreapp2.0\bobvid1.AssemblyInfo.cs
+C:\Users\Tatyanna\Documents\Projects\bobvid1\bobvid1\obj\Debug\netcoreapp2.0\bobvid1.dll
+C:\Users\Tatyanna\Documents\Projects\bobvid1\bobvid1\obj\Debug\netcoreapp2.0\bobvid1.pdb
